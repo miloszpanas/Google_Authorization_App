@@ -1,0 +1,26 @@
+{
+  "name": "zadanie-17.7_google_authorization_app",
+  "version": "1.0.0",
+  "description": "Application using Google authorization ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miloszpanas"
+  },
+  "keywords": [
+    "expressJS",
+    "gokogle",
+    "auth"
+  ],
+  "author": "Miłosz Panas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^1.0.0",
+    "pug": "^2.0.3"
+  }
+}
